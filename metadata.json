@@ -1,0 +1,5 @@
+{
+  "name": "BharatOS - A Web-based Operating System",
+  "description": "A fully functional, web-based operating system inspired by India's heritage, built with React and Tailwind CSS. It features a window manager, file explorer, terminal with Python, text and code editors, paint, a game, and more.",
+  "requestFramePermissions": []
+}
