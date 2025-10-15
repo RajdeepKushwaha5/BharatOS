@@ -17,8 +17,6 @@ This README is intended to be friendly for contributors, maintainers, and users.
 
 ## 📖 Overview
 
-![BharatOS Desktop](https://github.com/user-attachments/assets/72c98b51-be71-4cec-bada-48cd8f76a7/)
-
 BharatOS is a small, extensible web-based desktop environment that runs entirely in the browser. It emulates core desktop metaphors — desktop icons, draggable/resizable windows, a taskbar, start menu, and several small demo applications (text editor, terminal, paint, media player, file manager, and a small game).
 
 This project is aimed at developers learning UI systems, component design, and client-side application architecture. It can also be used as a starting point for building richer web-desktop experiences.
@@ -181,4 +179,5 @@ Replace the contact details with your preferred email or social links.
 ---
 
 If you want, I can implement any of the recommended improvements. Which one should I do next? (e.g., add CI, add ESLint, add Vitest tests, add LICENSE, add CONTRIBUTING)
+
 
