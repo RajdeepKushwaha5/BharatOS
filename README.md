@@ -13,7 +13,11 @@ This README is intended to be friendly for contributors, maintainers, and users.
   [![typescript](https://img.shields.io/badge/lang-TypeScript-blueviolet.svg)](https://www.typescriptlang.org/)
 </div>
 
+<img width="1919" height="973" alt="image" src="https://github.com/user-attachments/assets/72c98b51-be71-4cec-bada-bcda48cf76a7" />
+
 ## 📖 Overview
+
+![BharatOS Desktop](https://github.com/user-attachments/assets/72c98b51-be71-4cec-bada-48cd8f76a7/)
 
 BharatOS is a small, extensible web-based desktop environment that runs entirely in the browser. It emulates core desktop metaphors — desktop icons, draggable/resizable windows, a taskbar, start menu, and several small demo applications (text editor, terminal, paint, media player, file manager, and a small game).
 
@@ -177,3 +181,4 @@ Replace the contact details with your preferred email or social links.
 ---
 
 If you want, I can implement any of the recommended improvements. Which one should I do next? (e.g., add CI, add ESLint, add Vitest tests, add LICENSE, add CONTRIBUTING)
+
