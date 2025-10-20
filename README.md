@@ -166,18 +166,7 @@ Maintainer: Rajdeep Kushwaha
 
 - GitHub: https://github.com/RajdeepKushwaha5
 
-Replace the contact details with your preferred email or social links.
-
-## 🛠 Next recommended improvements (optional)
-
-- Add ESLint + Prettier and run autofix
-- Add GitHub Actions for CI to run typecheck, lint, and tests on PRs
-- Add Vitest tests for core components
-- Improve accessibility (ARIA, keyboard navigation, focus management)
-- Add a polished `CONTRIBUTING.md` and `LICENSE`
-
 ---
 
-If you want, I can implement any of the recommended improvements. Which one should I do next? (e.g., add CI, add ESLint, add Vitest tests, add LICENSE, add CONTRIBUTING)
 
 
